@@ -8,7 +8,6 @@ namespace Garage
 	public interface IFly
 	{
 		bool Winged { get; set; }
-		double MaxLandSpeed { get; set; }
 		double MaxAirSpeed { get; set; }
 		void Fly();
 	}

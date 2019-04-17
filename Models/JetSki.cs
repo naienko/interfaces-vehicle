@@ -6,15 +6,16 @@ namespace Garage
 {
 	public class JetSki : Vehicle, IAmphibious
 	{
-		public int Wheels { get; set; }
-		public int Doors { get; set; }
-		public int PassengerCapacity { get; set; }
-		public bool Winged { get; set; }
-		public string TransmissionType { get; set; }
-		public double EngineVolume { get; set; }
-		public double MaxWaterSpeed { get; set; }
-		public double MaxLandSpeed { get; set; }
-		public double MaxAirSpeed { get; set; }
+		public double MaxWaterSpeed { get; set; } = 25;
+
+		public JetSki()
+		{
+			Doors = 0;
+			Wheels = 0;
+			PassengerCapacity = 2;
+			TransmissionType = "None";
+			EngineVolume = 31.1;
+		}
 
 		public void Drive()
 		{

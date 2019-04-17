@@ -7,7 +7,7 @@ namespace Garage
 
 	public class Vehicle
 	{
-		public virtual int Wheels { get; set; }
+		public int Wheels { get; set; }
 		public int Doors { get; set; }
 		public int PassengerCapacity { get; set; }
 		public string TransmissionType { get; set; }

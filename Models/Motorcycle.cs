@@ -6,16 +6,16 @@ namespace Garage
 {
 	public class Motorcycle : Vehicle, IDrive
 	{
-		public int Wheels { get; set; } = 2;
-		public int Doors { get; set; } = 0;
-		public int PassengerCapacity { get; set; }
-		public bool Winged { get; set; } = false;
-		public string TransmissionType { get; set; } = "Manual";
-		public double EngineVolume { get; set; } = 1.3;
-		public double MaxWaterSpeed { get; set; }
 		public double MaxLandSpeed { get; set; } = 160.4;
-		public double MaxAirSpeed { get; set; }
 
+		public Motorcycle()
+		{
+			Doors = 0;
+			Wheels = 2;
+			PassengerCapacity = 2;
+			TransmissionType = "Manual";
+			EngineVolume = 1.3;
+		}
 		public void Drive()
 		{
 			Console.WriteLine("The motorcycle screams down the highway");

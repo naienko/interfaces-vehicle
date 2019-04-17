@@ -9,6 +9,9 @@ namespace Garage
 
     public static void Main() {
 
+        Cessna fxs = new Cessna();
+        fxs.Fly();
+
         // Build a collection of all vehicles that fly
 
         // With a single `foreach`, have each vehicle Fly()

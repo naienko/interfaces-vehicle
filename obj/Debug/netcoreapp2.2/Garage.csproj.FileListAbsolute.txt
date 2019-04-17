@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\bin\Debug\netcoreapp2.2\Garage.deps.json
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\bin\Debug\netcoreapp2.2\Garage.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\bin\Debug\netcoreapp2.2\Garage.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\bin\Debug\netcoreapp2.2\Garage.dll
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\bin\Debug\netcoreapp2.2\Garage.pdb
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\obj\Debug\netcoreapp2.2\Garage.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\obj\Debug\netcoreapp2.2\Garage.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\obj\Debug\netcoreapp2.2\Garage.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\obj\Debug\netcoreapp2.2\Garage.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\obj\Debug\netcoreapp2.2\Garage.dll
+C:\Users\naienko\workspace\csharp\exercises\vehicle-interfaces\obj\Debug\netcoreapp2.2\Garage.pdb
